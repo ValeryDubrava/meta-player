@@ -1,0 +1,1 @@
+Meta Player provides easy searching mechanism of any resources (audio/video) using meta information from internal Meta Player's knowledge database and associating meta data with real resources in external (source) systems like social networks or others.
